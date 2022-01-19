@@ -1,0 +1,12 @@
+header {
+    background-image: url(../Images/Background/Header-bg.png);
+    background-position-y: 80px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.hero-section {
+    transform: translateY(150px);
+}
+
