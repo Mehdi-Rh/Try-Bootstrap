@@ -1,0 +1,22 @@
+{
+  "name": "try-bootstrap",
+  "version": "1.0.0",
+  "description": "This is a portfolio build with Bootstrap and reffering to a figma template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mehdi-Rh/Try-Bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mehdi-Rh/Try-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/Mehdi-Rh/Try-Bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
